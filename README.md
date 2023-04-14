@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm María Fernanda Ríos</h1>
+<h1 align="center">Hi 👋, I'm María Fernanda Ríos (Maite)</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maite-ai" alt="maite-ai" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science & Artificial Inteligence (as a self-taught and as a student of a Higher Technicature)**
+- 🌱 I’m currently learning **Data Science & AI (as an autonomous learner and student of a higher technical degree)**
 
 - 👯 I’m looking to collaborate on **Python's projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mariafernandarios89@gmail.com**
 
-- ⚡ Fun fact **Maite (in euskera it means "Love") is my spiritual name**
+- ⚡ Fun fact **Maite (it means "Love" in euskera) is my spiritual name**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
