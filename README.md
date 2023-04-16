@@ -18,10 +18,8 @@
 <a href="https://kaggle.com/maifernandarios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maifernandarios" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/maite-ai"><img width="400" src="https://github-readme-stats.vercel.app/api?username=maite-ai&show_icons=true&theme=cobalt">
-  <a href="https://github.com/maite-ai"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maite-ai&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=cobalt">
-  <a href="https://github.com/maite-ai"><img width="800" src="https://github-profile-trophy.vercel.app/?username=maite-ai&row=1&column=5&theme=cobalt">
+<p align="center">
+    <a href="https://github.com/maite-ai"><img width="800" src="https://github-profile-trophy.vercel.app/?username=maite-ai&row=1&column=5&theme=cobalt">
 </p>
     
 ## Languages and Tools | Lenguajes y herramientas | Des langages et outils :
