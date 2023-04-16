@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maite-ai&show_icons=true&theme=cobalt" alt="maite-ai" /></p>
 
 <p align="center">
-    <a href="https://github.com/maite-ai"><img width="800" src="https://github-profile-trophy.vercel.app/?username=maite-ai&row=1&column=5&theme=cobalt">
+    <a href="https://github.com/maite-ai"><img width="800" src="https://github-profile-trophy.vercel.app/?username=maite-ai&row=1&column=5&theme=radical">
 </p>
