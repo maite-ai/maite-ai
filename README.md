@@ -1,8 +1,6 @@
 <h1 align="center">María Fernanda Ríos (Maite)</h1>
 <h3 align="center">Developer from Argentina | Desarrolladora de Argentina | Développeuse d'Argentine </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maite-ai" alt="maite-ai" /></a> </p>
-
 - 💬 You can talk with me in **english** | Puedes hablar conmigo en **español** | Vous pouvez me parler en **français**
 
 - 🌱 I’m currently learning **Data Science & AI**| Actualmente me encuentro estudiando **Ciencias de Datos e IA** | J'étudie **la Science des Données & l'Intelligence Artificielle**
