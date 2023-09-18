@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm María Fernanda (Maite)</h1>
-<h3 align="center">A python developer from Argentina</h3>
+<h3 align="center">A data scientist and python developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 I’m currently working on **Gameplay Video Auto Edit** project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
