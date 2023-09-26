@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm María Fernanda (Mai)</h1>
 
-🌱 I’m a **Data Scientist** and **Python developer**. My curiosity, passion for AI, and coding skills drive me to be constantly in pursuit for more knowledge.
+🌱 I’m a **Data Scientist** and **Python developer** with extensive administrative experience (naval area). 
+My curiosity, passion for AI, and coding skills drive me to be constantly in pursuit for more knowledge.
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
