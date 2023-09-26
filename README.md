@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm María Fernanda (Maite)</h1>
-<h3 align="center">A data scientist and python developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm María Fernanda (Mai)</h1>
 
-- 🌱 I’m currently working on **Gameplay Video Auto Edit** project.
+🌱 I’m a **Data Scientist** and **Python developer**. My curiosity, passion for AI, and coding skills drive me to be constantly in pursuit for more knowledge.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariafernandarioscarrizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariafernandarioscarrizo" height="30" width="40" /></a>
 <a href="https://kaggle.com/maifernandarios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maifernandarios" height="30" width="40" /></a>
