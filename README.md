@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm María Fernanda (Mai)</h1>
 
-🌱 I’m a **Data Scientist** and **Python developer** with extensive administrative experience (naval area). 
+🌱 I’m a **Data Scientist** and **ML/AI developer**, currently as a TA @ Le Wagon LATAM, with 12 years of administrative experience (naval area). 
 My curiosity, passion for AI, and coding skills drive me to be constantly in pursuit for more knowledge.
 
 🤩 Deep Learning and Ethical Social Engineering enthusiast.
+🛩 Avgeek ❤ 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
