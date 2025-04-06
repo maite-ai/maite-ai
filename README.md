@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm María Fernanda (Mai)</h1>
 
-🌱 I’m a **Data Scientist** and **ML/AI developer**, currently as a TA @ Le Wagon LATAM, with 12 years of administrative experience (naval area). 
+🌱 I’m a **ML/AI Engineer**, currently working as a Teacher @ Le Wagon LATAM, and in some project as well.
 My curiosity, passion for AI, and coding skills drive me to be constantly in pursuit for more knowledge.
 
-🤩 Deep Learning and Ethical Social Engineering enthusiast.
-🛩 Avgeek ❤ 
+🤩 Deep RL and Ethical Social Engineering enthusiast.
+
+🛩 Avgeek from ❤ 
+
+Fun fact about me: This is me in '18 at the Destructor ARA Sarandi.
+<img src="https://photos.app.goo.gl/hkM28i5yj9VuZCBb8" />
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
