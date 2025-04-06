@@ -7,8 +7,7 @@ My curiosity, passion for AI, and coding skills drive me to be constantly in pur
 
 🛩 Avgeek from ❤ 
 
-Fun fact about me: This is me in '18 at the Destructor ARA Sarandi.
-<img src="https://photos.app.goo.gl/hkM28i5yj9VuZCBb8" />
+Fun fact about me: I've been a military personnel for 12 years. And I've sailed on two ships from Armada Argentina (2012 & 2018)
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
